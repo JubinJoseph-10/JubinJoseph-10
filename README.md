@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jubin Joseph</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align='right' alt='coding' width='400' src='https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif'> 
+<img align='right' alt='coding' width='350' src='https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif'> 
 
 - 🔭 I’m currently working on **G20 Summit Surge (Research Project)**
 
