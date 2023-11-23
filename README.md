@@ -1,4 +1,4 @@
-
+![logo](https://github.com/JubinJoseph-10/JubinJoseph-10/blob/main/Linked%20IN%20BG.png)
 
 
 <h1 align="center">Hi 👋, I'm Jubin Joseph</h1>
